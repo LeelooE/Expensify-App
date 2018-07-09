@@ -1,8 +1,5 @@
 node_modules/
-public/bundle.js
-public/bundle.js.map
-public/styles.css
-public/styles.css.map
+public/dist/
 2.19.3
 4.2.1
 .vscode/
