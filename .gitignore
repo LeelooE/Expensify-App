@@ -5,3 +5,5 @@ public/dist/
 .vscode/
 git/
 yarn-error.log
+.env.test
+.env.development
